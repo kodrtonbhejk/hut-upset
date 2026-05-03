@@ -1,0 +1,7 @@
+[versions]
+pen = "1.7.36"
+camel = "3.2.2"
+
+[libraries]
+pen = { module = "org.slf4j:slf4j-api", version.ref = "pen" }
+camel = { module = "io.ktor:ktor-client-cio", version.ref = "camel" }
