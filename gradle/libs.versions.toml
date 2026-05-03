@@ -1,5 +1,5 @@
 [versions]
-pen = "1.7.36"
+pen = "2.0.17"
 camel = "3.2.2"
 
 [libraries]
