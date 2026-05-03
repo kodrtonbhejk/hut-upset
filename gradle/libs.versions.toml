@@ -1,6 +1,6 @@
 [versions]
 pen = "1.7.36"
-camel = "3.2.2"
+camel = "3.4.3"
 
 [libraries]
 pen = { module = "org.slf4j:slf4j-api", version.ref = "pen" }
